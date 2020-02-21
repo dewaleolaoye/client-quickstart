@@ -1,0 +1,11 @@
+{
+  "name": "client-quickstart-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TwilioDevEd/client-quickstart-js.git",
+  "author": "dewaleolaoye <adewaleolaoye21@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
