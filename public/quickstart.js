@@ -70,7 +70,7 @@ $(function() {
   var inputVolumeBar = document.getElementById("input-volume");
   var volumeIndicators = document.getElementById("volume-indicators");
   var device;
-  // https://scarlet-hippopotamus-3934.twil.io/client-voice
+
   const demoServer = "http://localhost:9000/token";
   const mainServer = "http://localhost:4000/voice";
   const access = "http://localhost:9001/access";
